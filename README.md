@@ -14,7 +14,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require "nex/yii2-datepicker" "*"
+php composer.phar require "uhi67/yii2-datepicker" "*"
 ```
 
 or add
@@ -35,7 +35,7 @@ To use widget as date/time picker, set appropriate format, e.g. 'L LT' (as in ex
 
 ```
 <?php
-use nex\datepicker\DatePicker;
+use uhi67\datepicker\DatePicker;
 ?>
 
 <?= DatePicker::widget([
@@ -69,7 +69,7 @@ use nex\datepicker\DatePicker;
 
 ```
 <?php
-use nex\datepicker\DatePicker;
+use uhi67\datepicker\DatePicker;
 ?>
 <?= DatePicker::widget([
     'name' => 'datepickerTest',

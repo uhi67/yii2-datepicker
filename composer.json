@@ -1,5 +1,5 @@
 {
-    "name": "nex/yii2-datepicker",
+    "name": "uhi67/yii2-datepicker",
     "type": "yii2-extension",
     "description": "Bootstrap 3 Date/time picker widget for Yii2",
     "keywords": ["yii2", "extension", "widget", "datepicker", "datetimepicker", "bootstrap"],
@@ -10,6 +10,11 @@
             "name": "Roman Ovchinnikov",
             "email": "nex.software@gmail.com",
             "homepage": "https://github.com/RomeroMsk"
+        },
+        {
+            "name": "Uherkovich Peter",
+            "email": "uherkovich.peter@gmail.com",
+            "homepage": "https://github.com/uhi67"
         }
     ],
     "require": {
@@ -20,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "nex\\datepicker\\": ""
+            "uhi67\\datepicker\\": ""
         }
     }
 }

@@ -88,5 +88,8 @@ use uhi67\datepicker\DatePicker;
 Changes
 --------
 
+### 2020-01-10/uhi67
+- Hungarian translations added
+
 ### 2019-04-18/uhi67
 - Now works with DateTime attribute values
